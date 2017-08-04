@@ -1,0 +1,10 @@
+width='100%';
+height='450';
+border='1';
+shownames='false';
+latitude='32.8340187';
+longitude='17.3456402';
+zoom='9';
+maptype='1';
+trackvessel='457381000';
+fleet='';
